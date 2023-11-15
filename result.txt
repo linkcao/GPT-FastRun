@@ -1,0 +1,10 @@
+{"prompt": "please answer 5", "result": "\n\n1. What is the"}
+{"prompt": "please answer 6", "result": "\n\n1. What is the"}
+{"prompt": "please answer 1", "result": "\n\nYes, it is possible"}
+{"prompt": "please answer 2", "result": "\n\n1. What is the"}
+{"prompt": "please answer 7", "result": "\n\n7. What is the"}
+{"prompt": "please answer 8", "result": "\n\n8 + 8 = 16"}
+{"prompt": "please answer 3", "result": "\n\n1. What is the"}
+{"prompt": "please answer 4", "result": "\n\n1. What is the"}
+{"prompt": "please answer 9", "result": "\n\n9 + 9 = 18"}
+{"prompt": "please answer 10", "result": "\n\n1. What is the"}

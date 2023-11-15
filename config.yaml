@@ -1,0 +1,10 @@
+api_keys:
+- sk-****
+- sk-*****
+batch: 4
+checked_keys:
+- sk-***
+- sk-****
+engine: text-davinci-003
+prompt_path: prompts.txt
+proxy: http://127.0.0.1:7890/
